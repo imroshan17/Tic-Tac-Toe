@@ -22,5 +22,5 @@ Players alternate turns placing X and O on a 3x3 grid. The game automatically de
 Game board layout:
 
 ![Tic Tac Toe Board](</>)
-![Pop-Up message](</Users/grd/Desktop/Screenshot 2025-09-27 at 10.53.47.png>)
+![Pop-Up message](<"/Users/grd/Desktop/Screenshot 2025-09-27 at 10.53.47.png">)
 
