@@ -19,8 +19,7 @@ Players alternate turns placing X and O on a 3x3 grid. The game automatically de
 
 ## Screenshots
 
-Game board layout:
+<img width="545" height="478" alt="image" src="https://github.com/user-attachments/assets/531a9e57-29b0-494f-98c6-e4d8a6c73ffc" />
+<img width="545" height="478" alt="image" src="https://github.com/user-attachments/assets/d5851785-a7e7-4fd2-90d9-bc0cbef728b5" />
 
-![Tic Tac Toe Board](</>)
-![Pop-Up message](<"/Users/grd/Desktop/Screenshot 2025-09-27 at 10.53.47.png">)
 
